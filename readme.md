@@ -1,7 +1,7 @@
 ### Clip Present Week10 ###
--
+https://drive.google.com/drive/folders/17wTkj0F1pYtCnTsulmpEmLNpSB0YwYqq?usp=sharing
 
-This is my second try
+No more bugs in my code!
 
 # Install jenkins, docker, docker-compose, and git 
 
