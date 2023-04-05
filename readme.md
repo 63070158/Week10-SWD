@@ -1,7 +1,7 @@
 ### Clip Present Week10 ###
 -
 
-This is my first try
+This is my second try
 
 # Install jenkins, docker, docker-compose, and git 
 
