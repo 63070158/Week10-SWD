@@ -4,7 +4,7 @@ pipeline {
         stages {
             stage('Initialize Stage') {
                 steps {
-                    echo 'Initial : Delete containers and images'
+                    echo 'Initial : Delete containers and images ⭐'
                      dir('Week10-SWD') {
                         echo "Current path is  ${pwd()}"
                         sh 'docker-compose down --rmi all --volumes || true'
